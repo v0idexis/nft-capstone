@@ -129,6 +129,7 @@ export default function ItemsPage({ marketplace, nft, account }) {
           totalPrice,
           price: i.price,
           itemId: i.itemId,
+          owner: i.owner,
           name: metadata.name,
           description: metadata.description,
           image: metadata.image,
