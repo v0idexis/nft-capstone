@@ -249,7 +249,7 @@ export default function TradePage({marketplace, nft }) {
                   style={{ transform: squares1to6 }}
                 />
               </Container>
-            ) : !nosearch ? (
+            ) : search && !nosearch ? (
               <Container>
                 <h2 className="App-loader">
                   Oops .... No digital asset found

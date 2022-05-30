@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/mnt/c/Users/f4c3b0lt/Desktop/final_year_project/nft-capstone/src/backend/contracts/Marketplace.sol": {
-      "lastModificationDate": 1653828341229,
-      "contentHash": "32dcb88531358721d03108cfab4b1757",
+      "lastModificationDate": 1653915110232,
+      "contentHash": "0e27e1afa7d9bca6274e43ea8609db4e",
       "sourceName": "src/backend/contracts/Marketplace.sol",
       "solcConfig": {
         "version": "0.8.4",
