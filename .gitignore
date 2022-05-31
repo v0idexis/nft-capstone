@@ -10,6 +10,8 @@
 
 # production
 /build
+/src/backend/cache/**
+/src/backend/artifacts/**
 
 # misc
 .DS_Store
